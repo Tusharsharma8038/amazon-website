@@ -1,0 +1,1 @@
+alert('amzon website open')
