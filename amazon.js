@@ -1,1 +1,1 @@
-alert('amzon website open')
+alert('amazon website open')
